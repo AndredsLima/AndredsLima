@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 André Sousa 👋<br>Estudante de Análise e Desenvolvimento de Sistemas <br>Técnico em Informática<br>Interessado em Full Stack na área de tecnologia<br><br>🌱 Tecnologias:<br>HTML<br>CSS<br>JavaScript<br>Java<br><br> Procuro colaborar em projetos de Full Stack para aprimorar minhas habilidades e aprender com profissionais da área.<br><br>📫 Contato:<br><br>E-mail: andredslima01@gmail.com<br>LinkedIn: linkedin.com/in/andre-sousalima
 
 
